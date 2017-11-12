@@ -1,0 +1,198 @@
+body{
+	margin: 0px;
+	background-color: #CCCCCC;
+}
+header {
+	background-color: #54B8FF;
+	width: 100%;
+	height: 60px;
+
+}
+
+.judul{
+
+	width: 80px;
+	display: inline-block;
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+
+}
+.cari{
+	position: absolute;
+	position: left;
+	margin-left: 100px;
+	display: inline-block;
+	padding-top: 8px;
+
+	
+}
+.cari input{
+	width: 250px;
+
+
+}
+.nama{
+	display: inline-block;
+	position: left;
+	margin-left: 700px;
+	color: black;
+}
+.beranda{
+	display: inline-block;
+	position: left;
+	position: absolute;
+	margin-left: 30px;
+	padding-top: 13px;
+	padding-bottom: 10px;
+	color: white;
+}
+.obrolan{
+	display: inline-block;
+	position: left;
+	position:  absolute;
+	margin-left: 111px;
+	padding-top: 14px;;                    
+	padding-bottom: 15px;
+	color: white;
+} 
+.logout{
+	display: inline-block;
+	position: left;
+	position:  absolute;
+	margin-left: 200px;
+	padding-top: 15px;;                    
+	padding-bottom: 20px;
+	color: white;	
+}
+#chat {
+	display: inline-block;
+	background-color: white;
+	width: 300px;
+	height: 500px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#chat .chatanton {
+	width: 300px;
+	background-color:white;
+	height: 100px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 15px;
+	padding-top: 20px;
+	color: white;
+}
+.gambaranton img{
+	width: 60px;
+	margin-right: 155px;
+}
+
+#borderchat{
+	background-color: white;
+	height: 500px;
+	width: 600px;
+	position: absolute;
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 15px;
+}
+.borderchat2{
+	background-color: #EEEEEE ;
+	height: 370px;
+	width: 530px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-left: 19px;
+}
+.tulispesan{
+	margin-left: -20px;
+}
+.tulispesan input{
+	height: 50px;
+	width: 547px;
+	margin-top: 75px;
+}
+.kirim{
+	background-color: #77D0ED;
+	height: 25px;
+	width: 56px;
+	margin-left: 475px;
+	margin-top: 15px;
+	text-align: center;
+	border-radius: 5px;
+}
+.chat1 .gambarprofil1 img{
+	width: 60px;
+	display: inline-block;
+	position: absolute;
+	margin-top: 10px;
+}
+.chat1 .kotak1 {
+	background-color: white;
+	width: 100px;
+	height: 50px;
+	display: inline-block;
+	margin-left: 80px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.chat1 .namakontak{
+	font-size: 16px;
+	font-family: Arial;
+	margin-left: 5px;
+	margin-top: 5PX;
+}
+.chat1 .chatkontak{
+	font-size: 14px;
+	font-family: Arial;
+	color: #666666;
+	margin-top:5px;
+	margin-left: 5PX;
+}
+.chat2 .gambarprofil2 img{
+	width: 60px;
+	display: inline-block;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 450px;
+
+}
+.chat2 .kotak2 {
+	background-color: white;
+	width: 150px;
+	height: 50px;
+	display: inline-block;
+	margin-left: 280px;
+	margin-top: 15px;
+	padding-left: 5px;
+	border-radius: 15px;
+}
+.chat2 .namakontak2{
+	font-size: 16px;
+	font-family: Arial;
+	margin-left: 5px;
+	margin-top: 5PX;
+}
+.chat2 .chatkontak2{
+	margin-left: 5px;
+	font-size: 14px;
+	font-family: Arial;
+	color: #666666;
+}
+.chat .namakontak{
+	font-family: Arial;
+	font-size: 14px;
+	color: black;
+}
+
+#chatting .kolom{
+	background-color: white;
+	width: 300px;
+	height: 600px;
+}
+#chatting {
+	display: inline-block;
+	position: absolute;
+	margin-left: 700px;
+}
